@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+
+h1,h3{
+	text-align: center;
+	
+}
+.main-div{
+	border:1px solid black;
+	height:350px;
+	width:600px;
+	
+}
+.code{
+	width:45px;
+	height:45px;
+}
+ .code-container {         
+ }
+

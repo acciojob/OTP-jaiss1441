@@ -1,5 +1,4 @@
-//your JS code here. If required.
-et all input elements
+// Get all input elements
 const inputs = document.querySelectorAll('.code');
 
 // Function to handle keydown events for input navigation
